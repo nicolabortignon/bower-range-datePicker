@@ -1,0 +1,20 @@
+{
+  "name": "bower-range-datePicker",
+  "version": "0.0.1",
+  "authors": [
+    "Nicola Bortignon <info@nicolabortignon.com>"
+  ],
+  "description": "DatePicker with multirange support",
+  "keywords": [
+    "DatePicker",
+    "component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
